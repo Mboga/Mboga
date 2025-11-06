@@ -68,30 +68,16 @@ I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate 
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced ML Security
-- Federated Learning
-  
----
-
 ## 💼 Featured Projects
 
-- [MLOps Pipeline Framework](https://github.com/Mboga/mlops-pipeline-framework)  
-  Production-ready, modular pipeline for rapid deployment of ML models on AWS and hybrid clouds.
-
-- [NLP Research to Production Toolkit](https://github.com/Mboga/nlp-production-toolkit)  
-  Tools and scripts for transitioning NLP models from experimentation to stable production environments.
-
-- [Cloud Data Lake Builder](https://github.com/Mboga/cloud-data-lake-builder)  
-  Framework for building scalable, secure, and highly-available data lakes on AWS using Infrastructure as Code.
+- To Do
 
 ---
 
 ## 📫 Contact Me
 
 - Email: [nckodhiambo@gmail.com]
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/nicholus-mboga]
 
 ---
 
