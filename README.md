@@ -19,7 +19,6 @@ I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate 
 **MLOps & ML Infrastructure:**  
 ![MLOps](https://img.shields.io/badge/MLOps-blue?style=flat&logo=databricks&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-020929?logo=mlflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
@@ -41,8 +40,8 @@ I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate 
 ![NLP](https://img.shields.io/badge/NLP-orange?logo=openai&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-3776AB?logo=pytorch&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Predictive Analytics](https://img.shields.io/badge/PredictiveAnalytics-4758?logo=chartdotjs&logoColor=white)
 
 **Databases & Data Engineering:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
