@@ -46,7 +46,6 @@ I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate 
 
 **Databases & Data Engineering:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-blue?logo=airbyte&logoColor=white)
@@ -89,24 +88,10 @@ I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate 
 
 ---
 
-## 🏆 Achievements & Certifications
-
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-yellow?logo=amazon-aws)
-![CKA](https://img.shields.io/badge/Certified-Kubernetes%20Administrator-blue?logo=kubernetes)
-
----
-
-## 📈 GitHub Stats
-
-![Mboga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mboga&show_icons=true&hide=stars&count_private=true)
-
----
-
 ## 📫 Contact Me
 
-- Email: [your-email@example.com]
+- Email: [nckodhiambo@gmail.com]
 - LinkedIn: [Your LinkedIn URL]
-- Twitter: [@yourTwitterHandle]
 
 ---
 
