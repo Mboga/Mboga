@@ -71,7 +71,7 @@ I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate 
 ## Publications
 
 - [Publications](https://mboga.github.io)
-- [Google Scholar] (https://scholar.google.com/citations?hl=en&user=8gMA2kQAAAAJ&view_op=list_works&gmla=AKzYXQ14p_TVKwDJk4g6mal9FMShniOxBIu4iiemZHu7Si6OEq9H8rwNjxnXnKzE7MKxR4aDwcG0_LETZIvZ1ydx)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=8gMA2kQAAAAJ&view_op=list_works&gmla=AKzYXQ14p_TVKwDJk4g6mal9FMShniOxBIu4iiemZHu7Si6OEq9H8rwNjxnXnKzE7MKxR4aDwcG0_LETZIvZ1ydx)
 
 ---
 
