@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-**Machine Learning Engineer | MLOps Specialist | Cloud Architect**
+**Machine Learning Engineer |  Data Engineer | MLOps Specialist | Cloud Architect**
 
 I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate scalable, secure, and reliable MLOps infrastructure—bridging the gap from AI/ML research to production in cloud and hybrid environments.
 
@@ -11,6 +11,7 @@ I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate 
 - Extensive experience in building and maintaining MLOps infrastructure on AWS and hybrid clouds.
 - Specialize in taking AI/ML and NLP models from research to production, implementing full MLOps lifecycles.
 - Proven record in developing CI/CD pipelines, performance analysis, model monitoring, and collaborating across teams for high-availability solutions.
+- Extensive experience building data ingestion and processing pipelines for statistical and Geospatial Data sets
 
 ---
 
@@ -67,9 +68,10 @@ I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate 
 
 ---
 
-## 💼 Featured Projects
+## Publications
 
-- To Do
+- [Publications](https://mboga.github.io)
+- [Google Scholar (https://scholar.google.com/citations?hl=en&user=8gMA2kQAAAAJ&view_op=list_works&gmla=AKzYXQ14p_TVKwDJk4g6mal9FMShniOxBIu4iiemZHu7Si6OEq9H8rwNjxnXnKzE7MKxR4aDwcG0_LETZIvZ1ydx)]
 
 ---
 
