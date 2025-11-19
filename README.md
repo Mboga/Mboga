@@ -82,4 +82,4 @@ I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate 
 
 ---
 
-_Thanks for visiting! Feel free to explore my repositories or connect to discuss AI, MLOps, cloud architecture, or collaboration opportunities._
+_Thanks for visiting! Feel free to explore my repositories or connect to discuss AI, Data Engineering, MLOps, cloud architecture, or collaboration opportunities._
