@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-**Machine Learning Engineer |  Data Engineer | MLOps Specialist | Cloud Architect**
+**Machine Learning Engineer |  Data Engineer | MLOps Specialist | Geospatial Engineer**
 
 I am **Nicholus Mboga**. Welcome to my GitHub! I design, implement, and operate scalable, secure, and reliable MLOps infrastructure—bridging the gap from AI/ML research to production in cloud and hybrid environments.
 
